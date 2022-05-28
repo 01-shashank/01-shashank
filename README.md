@@ -1,7 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]([https://rishavchanda.io](https://about.me/shashank_singh))
 <h1 align="center">Hi 👋, I'm Shashank Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif" width="400" align="right" alt="coding" />
+<img align="center" alt="Coding" width="400" src="https://ampron.eu/wp-content/uploads/2019/01/code-developer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=01-shashank&label=Profile%20views&color=0e75b6&style=flat" alt="01-shashank" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01-shashank" alt="01-shashank" /></a> </p>
